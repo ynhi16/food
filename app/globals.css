@@ -1,3 +1,13 @@
 @import "tailwindcss";
 
+@layer components {
+  .footer__link {
+    @apply text-white font-medium cursor-pointer text-sm hover:text-yellow-300 w-fit;
+  }
+}
+
+
 /* Global css  */
+
+
+@custom-variant dark (&:where(.dark, .dark *));

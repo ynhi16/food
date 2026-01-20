@@ -1,32 +1,32 @@
 export const Navlinks = [
   {
     id: 1,
-    url: "#_",
-    label: "Home",
+    url: "/",
+    label: "Trang Chủ",
   },
   {
     id: 2,
-    url: "#_",
-    label: "Restaurents",
+    url: "/restaurant",
+    label: "Nhà Hàng",
   },
   {
     id: 3,
     url: "#_",
-    label: "Features",
+    label: "Tính Năng",
   },
   {
     id: 4,
     url: "#_",
-    label: "Menu",
+    label: "Thực Đơn",
   },
   {
     id: 5,
     url: "#_",
-    label: "Testimonials",
+    label: "Đánh Giá",
   },
   {
     id: 6,
     url: "#_",
-    label: "Contact",
+    label: " Liên Hệ",
   },
 ];
